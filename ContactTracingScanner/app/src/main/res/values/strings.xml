@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CDC QRCode Scanner</string>
+    <string name="scanner_error">Scanner error: %s</string>
+    <string name="scan_result_title">Scan Result</string>
+    <string name="scan_result_text">This is not a CDC location QR code!</string>
+    <string name="recommend_install_title">Social Distancing App</string>
+    <string name="recommend_install_text">It seems that the Taiwan Social Distancing APP is not installed, would you like to install?</string>
+    <string name="enable_service_title">Enable Social Distancing</string>
+    <string name="enable_service_text">The Taiwan Social Distancing APP might be disabled, please enable it.</string>
+    <string name="close">Close</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="cdc_exposure_notification">tw.gov.cdc.exposurenotifications</string>
+    <string name="cdc_exposure_notification_activity">tw.gov.cdc.exposurenotifications.activity.SplashActivity</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">實聯制掃描器</string>
+    <string name="scanner_error">錯誤: %s</string>
+    <string name="scan_result_title">掃描結果</string>
+    <string name="scan_result_text">這不是實聯制的QRCode喔！</string>
+    <string name="recommend_install_title">台灣社交距離APP</string>
+    <string name="recommend_install_text">您似乎沒有安裝「台灣社交距離APP」，是否安裝？</string>
+    <string name="enable_service_title">開啟社交距離APP</string>
+    <string name="enable_service_text">社交距離APP似乎被關閉了，是否開啟？</string>
+    <string name="close">關閉</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="cdc_exposure_notification">tw.gov.cdc.exposurenotifications</string>
+    <string name="cdc_exposure_notification_activity">tw.gov.cdc.exposurenotifications.activity.SplashActivity</string>
+</resources>
