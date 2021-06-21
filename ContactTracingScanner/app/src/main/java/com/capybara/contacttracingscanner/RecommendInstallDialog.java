@@ -18,6 +18,7 @@ public class RecommendInstallDialog extends BaseDialog {
             intent.setData(Uri.parse(
                     "https://play.google.com/store/apps/details?id=" + context.getString(R.string.cdc_exposure_notification)));
             intent.setPackage("com.android.vending");
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             context.startActivity(intent);
             activity.finish();
         });

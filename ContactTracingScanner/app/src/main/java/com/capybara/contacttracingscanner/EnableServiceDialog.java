@@ -20,6 +20,7 @@ public class EnableServiceDialog extends BaseDialog {
 
             Intent intent = new Intent();
             intent.setComponent(componetName);
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             context.startActivity(intent);
 
             activity.finish();

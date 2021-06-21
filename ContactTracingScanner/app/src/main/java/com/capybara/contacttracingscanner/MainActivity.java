@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("sms_body", message);
         if (intent.resolveActivity(getPackageManager()) != null) {
             Log.d(TAG, "Ready to send sms");
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(intent);
         }
     }
