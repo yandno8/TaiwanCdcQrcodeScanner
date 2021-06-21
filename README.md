@@ -6,7 +6,7 @@
 3. 自動轉跳簡訊頁面
 4. 提醒使用者安裝、啟用「台灣社交距離APP」
 
-Playstore 連結：審核中
+Playstore 連結：[Link](https://play.google.com/store/apps/details?id=com.capybara.contacttracingscanner)
 QR Code Library: [Link](https://github.com/yuriy-budiyev/code-scanner)
 
 # Taiwan CDC QR Code Scanner
@@ -17,7 +17,7 @@ Simple Taiwan CDC QR Code Scanner for the Android, which contains the following 
 3. Automatically redirect to the SMS sending page
 4. Notify the user to install/enable the "Taiwan Social Distancing APP"
 
-Playstore like: Under review
+Playstore like: [Link](https://play.google.com/store/apps/details?id=com.capybara.contacttracingscanner)
 
 QR Code Library: [Link](https://github.com/yuriy-budiyev/code-scanner)
 
