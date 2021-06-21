@@ -7,6 +7,7 @@
 4. 提醒使用者安裝、啟用「台灣社交距離APP」
 
 Playstore 連結：[Link](https://play.google.com/store/apps/details?id=com.capybara.contacttracingscanner)
+
 QR Code Library: [Link](https://github.com/yuriy-budiyev/code-scanner)
 
 # Taiwan CDC QR Code Scanner
